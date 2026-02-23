@@ -1,4 +1,5 @@
 import {
+  BearsDisplayCard,
   BlackBearCard,
   PandaBearCard,
   PolarBearCard,
@@ -16,6 +17,8 @@ export const BearPage = () => {
         <PolarBearCard />
 
         <PandaBearCard />
+
+        <BearsDisplayCard />
       </div>
     </>
   );
